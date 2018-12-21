@@ -1,4 +1,4 @@
-name := "ImperialMetric"
+name := "measuring-units"
 
 version := "1.0"
 
